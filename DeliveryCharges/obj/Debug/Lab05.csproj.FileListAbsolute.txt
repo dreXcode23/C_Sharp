@@ -1,0 +1,5 @@
+C:\IWT2\C#\Chapter06\ProgrammingExercises\Lab05\bin\Debug\Lab05.exe.config
+C:\IWT2\C#\Chapter06\ProgrammingExercises\Lab05\bin\Debug\Lab05.exe
+C:\IWT2\C#\Chapter06\ProgrammingExercises\Lab05\bin\Debug\Lab05.pdb
+C:\IWT2\C#\Chapter06\ProgrammingExercises\Lab05\obj\Debug\Lab05.exe
+C:\IWT2\C#\Chapter06\ProgrammingExercises\Lab05\obj\Debug\Lab05.pdb

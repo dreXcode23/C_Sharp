@@ -1,0 +1,6 @@
+C:\IWT2\C#\Chapter05\ProgrammingExercises\TestScores\bin\Debug\TestScores.exe.config
+C:\IWT2\C#\Chapter05\ProgrammingExercises\TestScores\bin\Debug\TestScores.exe
+C:\IWT2\C#\Chapter05\ProgrammingExercises\TestScores\bin\Debug\TestScores.pdb
+C:\IWT2\C#\Chapter05\ProgrammingExercises\TestScores\obj\Debug\TestScores.csprojResolveAssemblyReference.cache
+C:\IWT2\C#\Chapter05\ProgrammingExercises\TestScores\obj\Debug\TestScores.exe
+C:\IWT2\C#\Chapter05\ProgrammingExercises\TestScores\obj\Debug\TestScores.pdb

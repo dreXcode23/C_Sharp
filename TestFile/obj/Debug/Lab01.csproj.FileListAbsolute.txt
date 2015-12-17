@@ -1,0 +1,6 @@
+C:\IWT2\C#\Chapter14\ProgrammingExercises\Lab01\bin\Debug\Lab01.exe.config
+C:\IWT2\C#\Chapter14\ProgrammingExercises\Lab01\bin\Debug\Lab01.exe
+C:\IWT2\C#\Chapter14\ProgrammingExercises\Lab01\bin\Debug\Lab01.pdb
+C:\IWT2\C#\Chapter14\ProgrammingExercises\Lab01\obj\Debug\Lab01.csprojResolveAssemblyReference.cache
+C:\IWT2\C#\Chapter14\ProgrammingExercises\Lab01\obj\Debug\Lab01.exe
+C:\IWT2\C#\Chapter14\ProgrammingExercises\Lab01\obj\Debug\Lab01.pdb
